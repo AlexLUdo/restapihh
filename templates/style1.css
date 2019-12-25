@@ -1,0 +1,20 @@
+
+body {
+	background-image: url(img/1.jpg);
+	opacity: 1;
+}
+a {
+	font-size: 20px;
+	color: red; 
+}
+
+th {
+	font-size: 20px;
+	color: red; 
+}
+
+td {
+	font-size: 25px;
+	font-style: bold;
+	color: black; 
+}
